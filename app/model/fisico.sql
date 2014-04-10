@@ -72,8 +72,8 @@ CREATE  TABLE IF NOT EXISTS `universusTI`.`pesquisa` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
-USE `universusTI` ;
-
+USE `universusTI`;
+//teste git anderson
 
 SET SQL_MODE=@OLD_SQL_MODE;
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
